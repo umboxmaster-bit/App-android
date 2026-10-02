@@ -1,0 +1,8 @@
+{
+  "name": "NovaCut Pro - Editor de Video Android",
+  "description": "Editor de video profesional para Android con línea de tiempo multicapa, corte de precisión, filtros cinemáticos, efectos de audio, subtítulos animados y exportación directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
